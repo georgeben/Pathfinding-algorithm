@@ -1,2 +1,2 @@
 # Pathfinding-algorithm
-My implementation of a path finding algorithm in python
+A path finding algorithm in python
